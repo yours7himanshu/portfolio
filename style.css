@@ -481,4 +481,22 @@ line-height: 1.3;
     .contact form .input-box input{
         width: 100%;
     }
+    .contact form{
+        display: flex;
+        flex-direction: column;
+        gap: 3px;
+    }
+    .contact form .input-box{
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+    }
+    .contact form textarea{
+        width: 100%;
+        height:60%;
+    }
+
+    .footer-text p{
+        font-size: 8px;
+    }
 }
