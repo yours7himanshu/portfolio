@@ -234,7 +234,7 @@ line-height: 1.3;
 
 .portfolio-container .portfolio-box{
     position: relative;
-    border-radius: 2rem;
+    border-radius: 1rem;
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
